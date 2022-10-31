@@ -2,10 +2,10 @@
 
 
 
-import Main from './Cocktail Project/Main';
+import JWTBasic from './Node-JS-API Testing/JWTBasic';
 function App() {
   return(
-    <Main />
+    <JWTBasic />
   )
 }
 
